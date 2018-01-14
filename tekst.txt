@@ -1,0 +1,2 @@
+Dane przed zapisem.
+Dane po zapisie!
